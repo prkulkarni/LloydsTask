@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_padding">4dp</dimen>
+    <dimen name="vertical_margin">8dp</dimen>
+    <dimen name="horizontal_margin">8dp</dimen>
+    <dimen name="movie_item_title_top_margin">50dp</dimen>
+    <dimen name="movie_image_item_width">100dp</dimen>
+    <dimen name="movie_image_item_height">100dp</dimen>
+</resources>
